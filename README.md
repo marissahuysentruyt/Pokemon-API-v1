@@ -9,3 +9,6 @@ Practice pulling data from PokeAPI, and populating it on the page
 4. Grab the json to change the body (name, ability, moves)
 5. Use querySelector to select any html elements 
 
+<br><br><br>
+I did end up with one question- why does the first/newest ul not display the mouseover and mouseout styles? 
+
